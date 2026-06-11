@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TrustedSoftwAIr'27
+title: The TrustedSoftwAIr Workshop
 subtitle: "International Workshop on Building Trusted Software with AI @ ICSE 2027"
 use-site-title: true
 ---
