@@ -23,6 +23,9 @@ footer-hover-col: "#0085A1"
 
 footer-col1-text: "Organizers of the TrustedSoftwAIr Workshop at ICSE 2027"
 
+site-css:
+  - "/assets/css/beautifuljekyll-custom.css"
+
 # Theme
 remote_theme: daattali/beautiful-jekyll@6.0.1
 

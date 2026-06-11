@@ -4,9 +4,9 @@
 /* Widen content column on large screens to match older beautiful-jekyll layout */
 @media (min-width: 1200px) {
   .col-xl-8 {
-    width: 83.33333333%;
+    width: 83.33333333% !important;
   }
   .offset-xl-2 {
-    margin-left: 8.33333333%;
+    margin-left: 8.33333333% !important;
   }
 }
