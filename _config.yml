@@ -1,0 +1,46 @@
+title: "TrustedSoftwAIr"
+subtitle: "Workshop on Trusted AI-Powered Software @ ICSE 2027"
+description: "TrustedSoftwAIr: Workshop on Trusted AI-Powered Software"
+url: "https://trustedsoftwair.github.io"
+baseurl: ""
+
+# Navigation
+navbar-links:
+  Call for Papers: "cfp"
+  Schedule: "schedule"
+
+# Color scheme
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-border-col: "#EAEAEA"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+footer-col1-text: "Organizers of the TrustedSoftwAIr Workshop at ICSE 2027"
+
+# Theme
+remote_theme: daattali/beautiful-jekyll@6.0.1
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+timezone: America/New_York
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+exclude:
+  - CHANGELOG.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - Dockerfile

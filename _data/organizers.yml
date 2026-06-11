@@ -1,0 +1,11 @@
+efirst:
+  name: "Emily First"
+  url: "https://efirst.github.io/"
+  affiliation: "Rutgers University"
+  img: "efirst.jpg"
+
+ybrun:
+  name: "Yuriy Brun"
+  url: "https://people.cs.umass.edu/~brun/"
+  affiliation: "UMass Amherst"
+  img: "ybrun.jpg"
