@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center; margin-top: 1em;">
-  (Location TBD, 2027)
+  (Dublin, Ireland, April 26, 2027)
 </div>
 
 # Overview
@@ -38,6 +38,23 @@ See our [call for papers](cfp).
   </div>
 
 </div>
+
+## Program Committee
+
+- Yousef Alhessi, University of Edinburgh
+- Saikat Chakraborty, Microsoft
+- Isil Dillig, UT Austin
+- Matthew Dwyer, Amazon & UVA
+- Sarah Fakhoury, Microsoft
+- Harrison Goldstein, University at Buffalo
+- Andrew Head, UPenn
+- Zhanna Kaufman, UMass Amherst
+- Claire Le Goues, CMU
+- Nenad Medvidovic, USC
+- Alexandra Mendes, University of Porto
+- Bryan Parno, Amazon & CMU
+- Gabriel Poesia, University of Michigan
+- Neha Rungta, Amazon
 
 <hr>
 
