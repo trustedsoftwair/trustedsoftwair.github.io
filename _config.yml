@@ -6,6 +6,7 @@ baseurl: ""
 
 # Navigation
 navbar-links:
+  Home: "/"
   Call for Papers: "cfp"
   Schedule: "schedule"
 

@@ -52,7 +52,7 @@ We invite three types of submissions:
 
 Details on formatting will be announced when ICSE 2027 workshop guidelines are available.
 
-All accepted papers will be presented at the workshop. Accepted papers will be displayed on the TrustedSoftwAIr homepage and are considered non-archival.
+All accepted papers will be presented at the workshop. Accepted papers will be displayed on the TrustedSoftwAIr webpage.
 
 <hr>
 
