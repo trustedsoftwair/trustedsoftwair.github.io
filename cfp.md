@@ -7,7 +7,7 @@ use-site-title: true
 
 # Call for Papers
 
-The call for papers is open! Submissions can be made through the [submission link](https://icse2027-trustedsoftwair.hotcrp.com/).  
+The call for papers is open! Submissions can be made through the [HotCRP submission site](https://icse2027-trustedsoftwair.hotcrp.com/).  
 
 The TrustedSoftwAIr workshop invites papers and discussions on producing, evaluating, and verifying software whose development is assisted or automated by AI.
 
