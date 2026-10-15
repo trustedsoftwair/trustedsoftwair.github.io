@@ -34,8 +34,8 @@ The TrustedSoftwAIr workshop invites papers and discussions on producing, evalua
 ### Important Dates
 
 **Paper submission deadline:** November 13, 2026 AoE <br>
-**Notification:** TBD <br>
-**Camera ready:** TBD <br>
+**Notification:** Dec 11, 2026 AoE <br>
+**Camera ready:** Jan 29, 2027 AoE <br>
 **Workshop:** April 26, 2027, Dublin, Ireland
 
 <hr>
@@ -50,7 +50,9 @@ We invite three types of submissions:
 
 3. **Presentations of already published work** (non-archival). Proposals to present work that has been recently published or is under submission to another venue, giving it exposure to the workshop's cross-disciplinary audience. Please mark such papers upon submission.
 
-Details on formatting will be announced when ICSE 2027 workshop guidelines are available.
+Manuscripts must be written in English and submitted as PDF files through the workshop’s [HotCRP site](https://icse2027-trustedsoftwair.hotcrp.com/).
+
+Use the official IEEE conference proceedings template. LaTeX authors should use the following document class, without the `compsoc` or `compsocconf` options: `\documentclass[10pt,conference]{IEEEtran}`
 
 All accepted papers will be presented at the workshop. Accepted papers will be displayed on the TrustedSoftwAIr webpage.
 
