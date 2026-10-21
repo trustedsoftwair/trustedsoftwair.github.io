@@ -52,7 +52,7 @@ We invite three types of submissions:
 
 Manuscripts must be written in English and submitted as PDF files through the workshop’s [HotCRP site](https://icse2027-trustedsoftwair.hotcrp.com/).
 
-All submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html) (title in 24pt font and full text in 10pt type, LaTeX users must use `\documentclass[10pt,conference]{IEEEtran}` without including the `compsoc` or `compsocconf` options).
+Research paper and extended abstract submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html) (title in 24pt font and full text in 10pt type, LaTeX users must use `\documentclass[10pt,conference]{IEEEtran}` without including the `compsoc` or `compsocconf` options). These formatting guidelines do not apply to submissions for presentations of already published work.
 
 TrustedSoftwAIr'27 will use a single-blind review process, so every submission must include the authors' names.
 
