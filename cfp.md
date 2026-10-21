@@ -44,17 +44,21 @@ The TrustedSoftwAIr workshop invites papers and discussions on producing, evalua
 
 We invite three types of submissions:
 
-1. **Research papers** (up to 8 pages, including references). Full papers presenting research results on any of the workshop's topics of interest, such as new techniques, tools, benchmarks, or empirical studies.
+1. **Research papers** (up to 8 pages, including references) presenting new techniques, tools, benchmarks, or empirical studies on any of the workshop's topics of interest.
 
 2. **Vision and early-idea extended abstracts** (up to 2 pages, excluding references). Short submissions describing new ideas, work in progress, or positions on where the field should go, intended to spark discussion at the workshop.
 
-3. **Presentations of already published work** (non-archival). Proposals to present work that has been recently published or is under submission to another venue, giving it exposure to the workshop's cross-disciplinary audience. Please mark such papers upon submission.
+3. **Presentations of already published work.** Submit an abstract of a previously published paper relevant to TrustedSoftwAIr, to present this work at the workshop to increase the work's visibility in the community. These submissions will not be published in the TrustedSoftwAIr proceedings.
 
 Manuscripts must be written in English and submitted as PDF files through the workshop’s [HotCRP site](https://icse2027-trustedsoftwair.hotcrp.com/).
 
-Use the official IEEE conference proceedings template. LaTeX authors should use the following document class, without the `compsoc` or `compsocconf` options: `\documentclass[10pt,conference]{IEEEtran}`
+All submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html) (title in 24pt font and full text in 10pt type, LaTeX users must use `\documentclass[10pt,conference]{IEEEtran}` without including the `compsoc` or `compsocconf` options).
 
-All accepted papers will be presented at the workshop. Accepted papers will be displayed on the TrustedSoftwAIr webpage.
+TrustedSoftwAIr'27 will use a single-blind review process, so every submission must include the authors' names.
+
+Changes to the author list subsequent to submission will *not* be allowed.
+
+If a submission is accepted, at least one author of the paper is required to register for TrustedSoftwAIr'27 and present the paper in person. Accepted papers will be displayed on the TrustedSoftwAIr webpage.
 
 <hr>
 
