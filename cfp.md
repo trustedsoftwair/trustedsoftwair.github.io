@@ -33,7 +33,8 @@ The TrustedSoftwAIr workshop invites papers and discussions on producing, evalua
 
 ### Important Dates
 
-**Paper submission deadline:** November 13, 2026 AoE <br>
+**Paper submission deadline:** <del>November 13, 2026 AoE</del> <br>
+**Extended submission deadline:** November 17, 2026 AoE <br>
 **Notification:** Dec 11, 2026 AoE <br>
 **Camera ready:** Jan 29, 2027 AoE <br>
 **Workshop:** April 26, 2027, Dublin, Ireland
